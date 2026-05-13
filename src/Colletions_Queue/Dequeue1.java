@@ -1,5 +1,5 @@
 package Colletions_Queue;
 
-public class PriorityQueue {
+public class Dequeue1 {
 
 }
