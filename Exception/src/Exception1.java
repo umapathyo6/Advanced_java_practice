@@ -9,6 +9,9 @@ public class Exception1 {
 		catch(Exception e) {
 			System.out.println("Arithmatic Error");
 		}
+		catch(Exception e) {
+			System.out.println("Arithmatic Error");
+		}
 		System.out.println("progeman end");
 	}
 
